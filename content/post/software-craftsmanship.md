@@ -1,5 +1,5 @@
 +++
-date = "2016-07-23T16:21:01+10:00"
+date = "2016-07-09T16:21:01+10:00"
 description = "How do you grow your skills effectively towards mastery?"
 tags = ["Tech"]
 title = "Software Craftsmanship"

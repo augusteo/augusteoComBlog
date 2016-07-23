@@ -12,7 +12,7 @@ disqusShortname = "augusteo"
 
 [Author]
   name = "Victor Augusteo"
-  profile = "https://google.com/+XXX"
+  profile = "/page/about/"
 
 [Taxonomies]
   tag = "tags"
@@ -31,3 +31,8 @@ disqusShortname = "augusteo"
   name = "Home"
   url = "/"
   weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/page/about/"
+  weight = 2
