@@ -178,9 +178,8 @@ The purpose of this app is just to inject the gpx file and run in the background
 The first point is pretty easy.  
 Second point is also easy since we will just have one empty controller with nothing on it.
 
-Now the third point is tricky. We can't just run a new empty app as iOS will kill it after several minutes of no activity to save battery and memory. We have to force it to keep running by using two tricks:  
-– loop and empty mp3 infinitely _v1.1_  
-– keep requesting location update in the background
+Now the third point is tricky. We can't just run a new empty app as iOS will kill it after several minutes of no activity to save battery and memory. We have to force it to keep running by using this trick:  
+**keep requesting location update in the background**
 
 With this two, I was able to keep the app running for several hours in the background while I play Pokemon Go.
 
@@ -194,7 +193,7 @@ After the project is created, we have to do several things:
 ## Backgrounding Capabilities
 
 Go to the capabilities tab and turn on `Background Modes`.  
-After that, turn on the `Audio` and `Location` checklist.  
+After that, turn on the `Location` checklist.  
 ![Screen Shot 2016-07-10 at 6.55.21 PM][9]
 
 ## Info.plist
@@ -209,8 +208,6 @@ Second line just help your app to not get closed during backgrounding.
 ## Import files
 
 There are two files that we need. One is the processes gpx file that we did previously.
-
-Another is an empty mp3 files that we are going to loop. You can get it from [Xamuel's page][11]. I use the 10 seconds one. It should work with all of them since we are looping anyway.
 
 Drag and drop the two files into your project navigator and select the `Copy items if needed` box.
 
