@@ -1,11 +1,12 @@
 +++
 date = "2016-07-23T16:21:01+10:00"
 description = "How do you grow your skills effectively towards mastery?"
+tags = ["Tech"]
 title = "Software Craftsmanship"
 
 +++
 
-This post is a companion of my talk for [Melbourne Mobile Meetup](http://www.meetup.com/MelbourneMobile/events/228598697/). You can get the [slides here](http://augusteo.com/f/MMMSoftwareCraftsmanship.pdf).
+This post is a companion of my talk for [Melbourne Mobile Meetup][1]. You can get the [slides here][2].
 
 # Software Engineering
 In the early years of software development, large numbers of software projects tends to be over budget and over time. The community then tries to bring in engineering practices to help make software projects predictable. Thus ‘Software Engineering’ was born.
@@ -37,11 +38,11 @@ Passion is often a positive modifier for craftsman. I argue that passion is opti
 # Software Craftsmanship
 The concept isn’t new. The classics embraces it.
 
-[Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) comes with ‘Journeyman to Master’ subtitle, which reflects the classic craftsmanship journey.
+[Pragmatic Programmer][3] comes with ‘Journeyman to Master’ subtitle, which reflects the classic craftsmanship journey.
 
-[Software Craftsmanship: The New Imperative](https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862) talked about the situation that our profession is facing right now. “As the demand for software has exploded, the software engineering establishment has attempted to adapt to the changing times with short training programs that teach the syntax of coding languages. But writing code is no longer the hard part of development; the hard part is figuring out what to write. This kind of know-how demands a skilled craftsman, not someone who knows only how to pass a certification course.” still true 15 years after the book is published.
+[Software Craftsmanship: The New Imperative][4] talked about the situation that our profession is facing right now. “As the demand for software has exploded, the software engineering establishment has attempted to adapt to the changing times with short training programs that teach the syntax of coding languages. But writing code is no longer the hard part of development; the hard part is figuring out what to write. This kind of know-how demands a skilled craftsman, not someone who knows only how to pass a certification course.” still true 15 years after the book is published.
 
-[Apprenticeship Pattern](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) is similar to the design patterns and refactoring books. it goes through many patterns that we can follow on the path to mastery.
+[Apprenticeship Pattern][5] is similar to the design patterns and refactoring books. it goes through many patterns that we can follow on the path to mastery.
 
 There is also a sequel to the Agile Manifesto, aptly titled Manifesto for Software Craftsmanship where you can sign and list your name on the page.
 
@@ -67,9 +68,9 @@ In software craftsmanship, this would be the people who has mastered their craft
 
 On scale of 1-10, on a good day, you might rate yourself as 8s or 9s. but once you see the works of the masters, you realize the scales goes up to 100s or 1000s.
 
-[Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) is one of those people. his masterpiece is, of course, Linux and Git which changed the whole computing landscape forever.
+[Linus Torvalds][6] is one of those people. his masterpiece is, of course, Linux and Git which changed the whole computing landscape forever.
 
-My other favourite masters are [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner) for creating LLVM, CLang, and Swift; and [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) for creating the GNU projects & the Free Software Foundation that started the open-source movement.
+My other favourite masters are [Chris Lattner][7] for creating LLVM, CLang, and Swift; and [Richard Stallman][8] for creating the GNU projects & the Free Software Foundation that started the open-source movement.
 
 There are many other masters that has directly impacted our lives through their masterpieces, and all of us should aspire to do better than them.
 
@@ -79,28 +80,28 @@ Growing one’s skill is an integral part of any craftsman’s career. As we tou
 ### Books
 Despite the newer technologies, books are still the most time and cost effective way to learn new skills. There are several books that is a must for every aspiring software craftsman to read:
 
-- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?s=books&ie=UTF8&qid=1467983832&sr=1-1&keywords=clean+code)
-- [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1467983863&sr=1-1&keywords=code+complete+2)
-- [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1467983893&sr=1-1&keywords=refactoring)
-- [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1467983921&sr=1-1&keywords=design+patterns)
-- [TDD: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?s=books&ie=UTF8&qid=1467983944&sr=1-1&keywords=test+driven+development)
-- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?s=books&ie=UTF8&qid=1467983970&sr=1-1&keywords=mythical+man+month+2nd+edition)
+- [Clean Code][9]
+- [Code Complete 2][10]
+- [Refactoring][11]
+- [Design Patterns][12]
+- [TDD: By Example][13]
+- [Mythical Man Month][14]
 
 And books that I have read and personally recommend:
 
-- [RoR Tutorials](https://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/0134077709/ref=sr_1_1?s=books&ie=UTF8&qid=1467984059&sr=1-1&keywords=michael+hartl)
-- [iOS by Tutorials](https://www.amazon.com/iOS-Tutorials-Updated-Swift-Learning/dp/1942878214/ref=sr_1_2?s=books&ie=UTF8&qid=1467984118&sr=1-2&keywords=ios+9+by+tutorials)
-- [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/ref=sr_1_1?s=books&ie=UTF8&qid=1467984140&sr=1-1&keywords=linus+torvalds)
-- [Swift](https://itunes.apple.com/au/book/swift-programming-language/id881256329?mt=11)
-- [KnockoutJS by Example](https://www.amazon.com/KnockoutJS-Example-Adnan-Jaswal-ebook/dp/B010T266UQ/ref=sr_1_1?s=books&ie=UTF8&qid=1467984237&sr=1-1&keywords=adnan+jaswal#navbar)
-- [Pro Git](https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772/ref=sr_1_1?s=books&ie=UTF8&qid=1467984254&sr=1-1&keywords=pro+git)
+- [RoR Tutorials][15]
+- [iOS by Tutorials][16]
+- [Just for Fun][17]
+- [Swift][18]
+- [KnockoutJS by Example][19]
+- [Pro Git][20]
 
 ### Practice
-The old saying “Practice makes perfect” is only half true. Not all kinds of practice are created equal. Studies have shown that [Deliberate Practice](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) is the superior method to practice.
+The old saying “Practice makes perfect” is only half true. Not all kinds of practice are created equal. Studies have shown that [Deliberate Practice][21] is the superior method to practice.
 
 In other word, the practice has to be about improving specific skill, repeated, with feedback from expert and must be challenging. There is no point to keep practicing a skill that has already been mastered.
 
-One way to practice software skills is to do [Code Kata](http://www.codekatas.org/).
+One way to practice software skills is to do [Code Kata][22].
 
 This way of practicing comes from the martial arts world. When a Karate practitioner is alone, he can’t practice Kumite (sparring). To practice, he can do a Kata, which is a set pattern of movements involving stepping, punching, kicking and other moves.
 
@@ -138,7 +139,7 @@ Personally I have been blogging on and off for several years on different topics
 It helps to keep me accountable.
 
 ### Brown Bag Sessions
-This is where you gather your work colleagues and do knowledge sharing over take-away lunch (usually in brown paper bags). An intimate atmosphere where you know most people and conducted in familiar place. After you’ve done a couple of those, try to find a larger forum to share. For example, [Meetup group](http://www.meetup.com/MelbourneMobile/).
+This is where you gather your work colleagues and do knowledge sharing over take-away lunch (usually in brown paper bags). An intimate atmosphere where you know most people and conducted in familiar place. After you’ve done a couple of those, try to find a larger forum to share. For example, [Meetup group][23].
 
 ### Meetup Groups
 The easiest way to share with more people is to find a meetup group in your niche and register. You can then ask the organizer if they are still looking for people to speak. They usually are. When it is confirmed, just prepare yourself and practice, then deliver it confidently.
@@ -151,3 +152,27 @@ A good craftsman will always strive to grow themselves through continuous learni
 Beside helping others, sharing will also help you because it forces you to learn effectively and understand the material more.
 
 Thanks for reading and I hope this essay benefit you.
+
+[1]: http://www.meetup.com/MelbourneMobile/events/228598697/
+[2]: http://augusteo.com/f/MMMSoftwareCraftsmanship.pdf
+[3]: https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
+[4]: https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862
+[5]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382
+[6]: https://en.wikipedia.org/wiki/Linus_Torvalds
+[7]: https://en.wikipedia.org/wiki/Chris_Lattner
+[8]: https://en.wikipedia.org/wiki/Richard_Stallman
+[9]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?s=books&ie=UTF8&qid=1467983832&sr=1-1&keywords=clean+code
+[10]: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1467983863&sr=1-1&keywords=code+complete+2
+[11]: https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1467983893&sr=1-1&keywords=refactoring
+[12]: https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1467983921&sr=1-1&keywords=design+patterns
+[13]: https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?s=books&ie=UTF8&qid=1467983944&sr=1-1&keywords=test+driven+development
+[14]: https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?s=books&ie=UTF8&qid=1467983970&sr=1-1&keywords=mythical+man+month+2nd+edition
+[15]: https://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/0134077709/ref=sr_1_1?s=books&ie=UTF8&qid=1467984059&sr=1-1&keywords=michael+hartl
+[16]: https://www.amazon.com/iOS-Tutorials-Updated-Swift-Learning/dp/1942878214/ref=sr_1_2?s=books&ie=UTF8&qid=1467984118&sr=1-2&keywords=ios+9+by+tutorials
+[17]: https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/ref=sr_1_1?s=books&ie=UTF8&qid=1467984140&sr=1-1&keywords=linus+torvalds
+[18]: https://itunes.apple.com/au/book/swift-programming-language/id881256329?mt=11
+[19]: https://www.amazon.com/KnockoutJS-Example-Adnan-Jaswal-ebook/dp/B010T266UQ/ref=sr_1_1?s=books&ie=UTF8&qid=1467984237&sr=1-1&keywords=adnan+jaswal#navbar
+[20]: https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772/ref=sr_1_1?s=books&ie=UTF8&qid=1467984254&sr=1-1&keywords=pro+git
+[21]: https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
+[22]: http://www.codekatas.org/
+[23]: http://www.meetup.com/MelbourneMobile/
