@@ -109,7 +109,7 @@ Code Kata is similar to that. You will solve a short programming exercise that c
 
 Remember to always get feedback for your practice to minimize errors and avoid forming bad habits.
 
-### Sharing
+### Share
 
 Imagine that you have two groups of people. on the left you have team mango. on the right team avocado. they are about to attend a lecture.
 

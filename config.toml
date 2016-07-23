@@ -2,10 +2,8 @@ baseurl = "http://augusteo.com/"
 languageCode = "en-us"
 
 title = "Victor Augusteo's Blog"
-copyright = "My Name"
 
 theme = "ghostwriter"
-# theme = "hugo-cactus-theme"
 
 googleAnalytics = "UA-63044470-1"
 disqusShortname = "augusteo"
@@ -21,8 +19,8 @@ disqusShortname = "augusteo"
   intro = true
   headline = "Victor Augusteo"
   description = "Tech. Games. Learning."
-  github = "https://github.com/augusteo"
-  linkedin = "https://linkedin.com/in/victoraugusteo"
+  name = "Victor Augusteo"
+  aboutAuthor = "Mostly making iOS app with Swift. Enjoys tinkering with Linux, Ruby, JavaScript and other shiny stuff."
 
 [Permalinks]
   post = "/:filename/"
@@ -32,7 +30,7 @@ disqusShortname = "augusteo"
   url = "/"
   weight = 1
 
-[[menu.main]]
-  name = "About"
-  url = "/page/about/"
-  weight = 2
+#[[menu.main]]
+#  name = "About"
+#  url = "/page/about/"
+#  weight = 2

@@ -276,7 +276,9 @@ I hope you enjoy the tutorial and let me know if you got any questions on the co
 # GPS error
 
 Even though we have tried to make the app run in the background, sometimes iOS will still kill it after a long period of time. In my testing this is several hours. You will see an error in Xcode console that says:
+
 `Message from debugger: Terminated due to memory issue`
+
 Pokemon Go app will either:  
 – show GPS error  
 – reset your GPS to your real location
