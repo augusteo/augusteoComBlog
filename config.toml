@@ -1,0 +1,33 @@
+baseurl = "http://augusteo.com/"
+languageCode = "en-us"
+
+title = "Victor Augusteo's Blog"
+copyright = "My Name"
+
+theme = "ghostwriter"
+# theme = "hugo-cactus-theme"
+
+googleAnalytics = "UA-63044470-1"
+disqusShortname = "augusteo"
+
+[Author]
+  name = "Victor Augusteo"
+  profile = "https://google.com/+XXX"
+
+[Taxonomies]
+  tag = "tags"
+
+[Params]
+  intro = true
+  headline = "Victor Augusteo"
+  description = "Tech. Games. Learning."
+  github = "https://github.com/augusteo"
+  linkedin = "https://linkedin.com/in/victoraugusteo"
+
+[Permalinks]
+  post = "/:filename/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
