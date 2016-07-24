@@ -71,7 +71,7 @@ Once you make sure that they are undrafted, just run `hugo server` on the main d
 Now when you open `localhost:1313` on your web browser, you should see your new blog displayed!
 
 # Deploying
-I will write an article soon about spinning up a new CentOS VPS, installing Nginx and writing a script to automate deployment with Rsync and SSH.
+I will write an article soon about spinning up a new CentOS VPS, installing Nginx and writing a script to automate deployment with Rsync and SSH. In the future we will also explore hosting the site on AWS S3 and CloudFront.
 
 # Summary
 Hugo and the other static site generators does what it promises. By serving static files instead of generated pages and database fetches, you will save a lot of server cost in the long run. The more traffic you have, the more money you will save. Moreover, since static files doesn't require processing at all, it will be served at a much faster speed compared to traditional CMS.
