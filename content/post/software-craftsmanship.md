@@ -154,7 +154,7 @@ Beside helping others, sharing will also help you because it forces you to learn
 Thanks for reading and I hope this essay benefit you.
 
 [1]: http://www.meetup.com/MelbourneMobile/events/228598697/
-[2]: http://augusteo.com/f/MMMSoftwareCraftsmanship.pdf
+[2]: /blogFiles/MMMSoftwareCraftsmanship.pdf
 [3]: https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
 [4]: https://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862
 [5]: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382

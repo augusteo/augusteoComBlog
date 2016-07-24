@@ -306,14 +306,14 @@ Thanks for reading yo!
 
 [1]: https://www.sublimetext.com/
 [2]: http://www.gpsies.com/createTrack.do
-[3]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-5.51.59-PM.png
-[4]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-5.58.59-PM.png
-[5]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-6.01.21-PM.png
+[3]: /blogFiles/Screen-Shot-2016-07-10-at-5.51.59-PM.png
+[4]: /blogFiles/Screen-Shot-2016-07-10-at-5.58.59-PM.png
+[5]: /blogFiles/Screen-Shot-2016-07-10-at-6.01.21-PM.png
 [6]: https://en.wikipedia.org/wiki/Regular_expression
-[7]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-6.27.54-PM-1024x136.png
+[7]: /blogFiles/Screen-Shot-2016-07-10-at-6.27.54-PM-1024x136.png
 [8]: https://regex101.com/r/jM9kB1/1
-[9]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-6.55.21-PM-1024x397.png
-[10]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-7.00.26-PM-1024x77.png
+[9]: /blogFiles/Screen-Shot-2016-07-10-at-6.55.21-PM-1024x397.png
+[10]: /blogFiles/Screen-Shot-2016-07-10-at-7.00.26-PM-1024x77.png
 [11]: http://www.xamuel.com/blank-mp3s/
-[12]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-7.30.26-PM-1024x44.png
-[13]: http://augusteo.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-10-at-7.31.57-PM.png
+[12]: /blogFiles/Screen-Shot-2016-07-10-at-7.30.26-PM-1024x44.png
+[13]: /blogFiles/Screen-Shot-2016-07-10-at-7.31.57-PM.png
