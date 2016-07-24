@@ -2,7 +2,7 @@
 author = ""
 date = "2016-07-24T17:59:35+10:00"
 description = "and why you should use static site generator"
-tags = []
+tags = ["Tech"]
 title = "Super Quick Guide to Start Using Hugo"
 
 +++
