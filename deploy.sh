@@ -2,4 +2,4 @@
 
 rm -rf public
 hugo
-rsync -avzP public vic@108.61.184.197:~
+rsync -avzP --delete public vic@108.61.184.197:~
