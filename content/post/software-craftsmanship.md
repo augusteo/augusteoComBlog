@@ -5,7 +5,7 @@ tags = ["Tech"]
 title = "Software Craftsmanship"
 
 +++
-
+![][banner]
 This post is a companion of my talk for [Melbourne Mobile Meetup][1]. You can get the [slides here][2].
 
 # Software Engineering
@@ -176,3 +176,4 @@ Thanks for reading and I hope this essay benefit you.
 [21]: https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
 [22]: http://www.codekatas.org/
 [23]: http://www.meetup.com/MelbourneMobile/
+[banner]: /blogFiles/craftsman.jpeg

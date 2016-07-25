@@ -5,6 +5,7 @@ tags = ["Tech"]
 title = "How To Simulate GPS Movement in iOS" 
 
 +++
+![][banner]
 Be warned: doing this on Pokemon Go might get your account suspended for cheating.
 
 # Motivation
@@ -317,3 +318,4 @@ Thanks for reading yo!
 [11]: http://www.xamuel.com/blank-mp3s/
 [12]: /blogFiles/Screen-Shot-2016-07-10-at-7.30.26-PM-1024x44.png
 [13]: /blogFiles/Screen-Shot-2016-07-10-at-7.31.57-PM.png
+[banner]: /blogFiles/movement.jpg
