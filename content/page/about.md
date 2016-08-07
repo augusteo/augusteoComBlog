@@ -37,7 +37,7 @@ I am also co-hosting the [Melbourne Mobile Meetup][5]. We run a monthly meetups 
 # Public Speaking
 Since university years, I've really enjoyed giving talks about various topics. 
 
-Back then, I lectured a class of more than a hundred students about photography.
+Back then, I lectured classes of up to a hundred students about photography.
 
 Nowadays I mostly stick to giving talks about tech.
 
