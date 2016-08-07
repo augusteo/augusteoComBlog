@@ -8,12 +8,12 @@ title = "About Victor"
 +++
 Hello! My name is **Victor Augusteo**. 
 
-I make mobile and web apps. Currently I am working at Tabcorp Australia crafting gaming app for iOS with Swift.
+I make mobile and web apps. Currently I am working in Australia crafting gaming app for iOS with Swift.
 
 # Contact
 The fastest way to contact me would be through email: [augusteo@gmail.com][2]. Typically I will respond in 24 hours.
 
-My [LinkedIn][3] page is updated everytime I change employment status and it has nice history, so I would recommend checking that out. 
+My [LinkedIn][3] page contains my updated employment status and it has nice history, so I would recommend checking that out. 
 Please send me a connection request if you use LinkedIn too.
 
 You can check out some of the fun projects I did on [Github][4], but most of the stuff on my job would be in private repos. I plan to put more stuff on that page, so stay tuned!
