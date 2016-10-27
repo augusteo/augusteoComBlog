@@ -14,7 +14,7 @@ three layers of testing:
 
 ways to do local test:
 1. mocking/stubbing in code
-2. embedded web server (example:)
+2. embedded web server e.g. [GCDWebServer](https://github.com/swisspol/GCDWebServer)
 3. mock-server
 
 why mock?
