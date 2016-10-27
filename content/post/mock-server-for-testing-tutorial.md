@@ -19,3 +19,4 @@ ways to do local test:
 
 why mock?
 1. code reuse, write once and use to test ios/android/web app.
+2. mocking the real api that hasn't been deployed yet.
