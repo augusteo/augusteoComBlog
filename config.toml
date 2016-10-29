@@ -1,5 +1,6 @@
-baseurl = "https://augusteo.com/"
+baseurl = "https://www.augusteo.com/"
 languageCode = "en-us"
+builddrafts = false
 
 title = "Victor Augusteo's Blog"
 
